@@ -1,14 +1,14 @@
 {
   "assertionMethod": [
-    "did:web:kysz-parth.github.io:my-files:vc-local-ed25519"
+    "did:web:kysz-parth.github.io:inji-certify:vc-local-ed25519"
   ],
   "service": [],
-  "id": "did:web:kysz-parth.github.io:my-files:vc-local-ed25519",
+  "id": "did:web:kysz-parth.github.io:inji-certify:vc-local-ed25519",
   "verificationMethod": [
     {
       "publicKeyMultibase": "z6Mkfnh7H2mbfJv2eaUbuzVcr9qMvuPkKMuLoAYHfrB2Gkvr",
-      "controller": "did:web:kysz-parth.github.io:my-files:vc-local-ed25519",
-      "id": "did:web:kysz-parth.github.io:my-files:vc-local-ed25519#G7481_bfbpgmz-D6z38Il5Shol_8e6VN41ooisrJFdM",
+      "controller": "did:web:kysz-parth.github.io:inji-certify:vc-local-ed25519",
+      "id": "did:web:kysz-parth.github.io:inji-certify:vc-local-ed25519#G7481_bfbpgmz-D6z38Il5Shol_8e6VN41ooisrJFdM",
       "type": "Ed25519VerificationKey2020",
       "@context": "https://w3id.org/security/suites/ed25519-2020/v1"
     }
@@ -18,6 +18,6 @@
   ],
   "alsoKnownAs": [],
   "authentication": [
-    "did:web:kysz-parth.github.io:my-files:vc-local-ed25519"
+    "did:web:kysz-parth.github.io:inji-certify:vc-local-ed25519"
   ]
 }
